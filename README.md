@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/nontapat-auetrongjit">
+    <a href="https://www.linkedin.com/in/nontapat-auetrongjit-305737398/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://medium.com/@nontaphatfirm">
@@ -79,8 +79,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nontaphatfirm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nontaphatfirm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nontaphatfirm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
