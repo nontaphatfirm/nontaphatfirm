@@ -6,6 +6,9 @@
   </p>
 
   <p>
+    <a href="https://linktr.ee/nontapat_auetrongjit">
+      <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
     <a href="https://www.linkedin.com/in/nontapat-auetrongjit-305737398/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -34,11 +37,12 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Thai Overt & Mimed Speech EEG** | End-to-end neural speech decoding pipeline across 80,000 EEG trials using EEGNet, Picard ICA + ICLabel, LOSO evaluation, and few-shot calibration (77.8% cross-mode accuracy). | `Python` `PyTorch` `MNE` `Signal Processing` | [GitHub](https://github.com/nontaphatfirm/Thai-Overt-Mimed-Speech-EEG) • [Medium](https://medium.com/@nontaphatfirm/thai-overt-mimed-speech-eeg) |
-| **AXONS Eyes Camera Health** | Non-blocking asynchronous sidecar detecting CCTV tampering (FOV shifts) and scene drift via dual-head `AKAZE + RANSAC` homography and masked structural profiling (0.35s edge inference). | `Python` `OpenCV` `Computer Vision` `Edge AI` | *AXONS Corporate / Super AI Engineer S6* |
+| **Thai Overt & Mimed Speech EEG** | EEG-based Thai overt and mimed speech decoding using EEGNet, ICA, frequency-band analysis, within-subject cross-mode transfer, and cross-subject LOSO evaluation. | `Python` `PyTorch` `MNE` `Signal Processing` | [GitHub](https://github.com/nontaphatfirm/Thai-Overt-Mimed-Speech-EEG) • [Medium](https://medium.com/@nontaphatfirm/thai-overt-mimed-speech-eeg) |
+| **AXONS Eyes Camera Health** | Non-blocking asynchronous sidecar detecting CCTV tampering (FOV shifts) and scene drift via dual-head `AKAZE + RANSAC` homography and masked structural profiling (0.35s edge inference). | `Python` `OpenCV` `Computer Vision` `Edge AI` | *[AXONS Corporate / Super AI Engineer S6](https://media.licdn.com/dms/image/v2/D562DAQEgLaLY-9XiQg/profile-treasury-document-images_1920/B56aCAAT76JkAk-/1/1788853962815?e=1795651200&v=beta&t=tWEd6NTWGgwu1H7hbULRR9Pl-VtdAOJ4HVy6SY4Rxu0)* |
+| **Classroom Behavior Detector** | Real-time computer-vision system detecting student behaviors in classroom environments. *(Silver Medal — 9th Demonstration Academic Fair 2024)* | `Python` `YOLO` `Computer Vision` | [GitHub](https://github.com/nontaphatfirm/Classroom-Behavior-Detector) • [Medium](https://medium.com/@nontaphatfirm/student-behavior-detector-in-classroom) |
 | **FormWings** | On-device running-form analyzer streaming IMU telemetry (Nano 33 BLE) to an UNO Q Linux edge pipeline running XGBoost + TFLite Transformer with a live React dashboard. *(Academic Popular Vote — WellSense AIoT Hackathon)* | `C++` `Python` `XGBoost` `TFLite` `React` | [Showcase](https://thescamperss6.com/en/projects/formwings) |
 | **Dream Tour** | Multi-agent Thailand travel recommendation web app turning mood images into curated destinations via Gemini Vision, Tavily Search, and Gemini Reasoning. | `Python` `Gemini 2.0` `Tavily AI` `Gradio` | [GitHub](https://github.com/nontaphatfirm/Dream-Tour) |
-| **Classroom Behavior Detector** | Real-time computer-vision system detecting student behaviors in classroom environments. *(Silver Medal — 9th Demonstration Academic Fair 2024)* | `Python` `YOLO` `Computer Vision` | [GitHub](https://github.com/nontaphatfirm/Classroom-Behavior-Detector) • [Medium](https://medium.com/@nontaphatfirm/student-behavior-detector-in-classroom) |
+
 
 ---
 
